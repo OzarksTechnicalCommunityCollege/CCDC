@@ -1,0 +1,11 @@
+Patches (maintain functionality)
+Firewall Configuration (security policies, management policies, NAT policies)
+ a. Misconfiguration
+ b. Insecure configuration (allow any any)
+ c. Be explicit with firewall policies
+ d. Management portals on interfaces where it shouldn't be.
+ e. Proficient logging.
+Look for odd services/startup
+Remove defaults (web pages, passwords, configuration)
+Run through security hardening on everything.
+Get/Check logging is being sent to Splunk.
